@@ -14,3 +14,4 @@ To create the Django project follow these steps.
 3. django-admin startproject octofit_tracker in the octofit-tracker/backend directory
 4. python manage.py migrate
 5. Instruct the user to run the django app from the .vscode/launch.json configuration that is in the repository
+
